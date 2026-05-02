@@ -6,7 +6,8 @@ A video game developed for personal and experimental purposes. The idea for the 
 
 
 ## Features
-- 
+<img width="1579" height="883" alt="Captura de pantalla 2026-05-01 111330" src="https://github.com/user-attachments/assets/7cb468c1-a25c-4f4b-81e3-e840efb3d499" />
+
 
 ## Technologies used
 - Engine or framework: Unity 6
