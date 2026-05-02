@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bac553739d9247146ad742054ed10fc3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239827
+  packageName: 'Retro: Spectrum'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Spectrum/Demo/Scripts/RetroSpectrumDemo.cs
+  uploadId: 868494

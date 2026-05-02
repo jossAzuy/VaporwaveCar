@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a5e74c51d02087541bc6c94bd9febd3b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241411
+  packageName: 'Retro: CRT TV'
+  packageVersion: 3.0.1
+  assetPath: Assets/FronkonGames/Retro/CRTTV/Demo/Settings/CRT TV Volume Profile
+    Demo.asset
+  uploadId: 873808

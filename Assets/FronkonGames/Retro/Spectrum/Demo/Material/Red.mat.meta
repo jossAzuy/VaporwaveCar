@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ff9eb6c345b7f74d80694d79648d106
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239827
+  packageName: 'Retro: Spectrum'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Spectrum/Demo/Material/Red.mat
+  uploadId: 868494

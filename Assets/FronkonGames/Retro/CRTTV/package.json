@@ -1,0 +1,20 @@
+{
+  "name": "com.fronkongames.retro.crttv",
+  "version": "3.0.1",
+  "displayName": "Retro: CRT TV",
+  "description": "The best way to replicate the look of old CRT televisions.",
+  "unity": "6000.0",
+  "unityRelease": "58f2",
+  "dependencies": { },
+  "keywords": [
+    "retro",
+    "crt",
+    "tv",
+    "post-processing",
+    "urp"
+  ],
+  "author": {
+    "name": "Fronkon Games",
+    "email": "fronkongames@gmail.com"
+  }
+}

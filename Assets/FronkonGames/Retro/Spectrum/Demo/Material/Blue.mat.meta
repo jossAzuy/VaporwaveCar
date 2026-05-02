@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 303b2e611a4fb9c46888503b69397da4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239827
+  packageName: 'Retro: Spectrum'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Spectrum/Demo/Material/Blue.mat
+  uploadId: 868494

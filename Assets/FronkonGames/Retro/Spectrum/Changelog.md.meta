@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7c733a13c38c8947baed3f9b715ce5e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239827
+  packageName: 'Retro: Spectrum'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Spectrum/Changelog.md
+  uploadId: 868494

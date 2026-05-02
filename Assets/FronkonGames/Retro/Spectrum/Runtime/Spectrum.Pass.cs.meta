@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e20876dd3feee4b4bbc2ce3cf015ce1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 380d42cd1d73208459a4795a22d8f2cf, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239827
+  packageName: 'Retro: Spectrum'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Spectrum/Runtime/Spectrum.Pass.cs
+  uploadId: 868494

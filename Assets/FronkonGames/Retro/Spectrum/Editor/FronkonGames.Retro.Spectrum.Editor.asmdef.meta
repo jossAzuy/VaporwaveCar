@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 022dc3a39101c1a42b8ab1b8f2527eb2
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239827
+  packageName: 'Retro: Spectrum'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Spectrum/Editor/FronkonGames.Retro.Spectrum.Editor.asmdef
+  uploadId: 868494

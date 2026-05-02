@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e6f0f8ec7c341746b27a5aaac7d779a
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239827
+  packageName: 'Retro: Spectrum'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Spectrum/Runtime/FronkonGames.Retro.Spectrum.asmdef
+  uploadId: 868494

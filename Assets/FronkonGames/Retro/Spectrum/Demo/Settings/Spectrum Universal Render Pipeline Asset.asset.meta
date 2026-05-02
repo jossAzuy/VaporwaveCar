@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a148496b2ffe3a640a09faf39106df42
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239827
+  packageName: 'Retro: Spectrum'
+  packageVersion: 2.0.4
+  assetPath: Assets/FronkonGames/Retro/Spectrum/Demo/Settings/Spectrum Universal
+    Render Pipeline Asset.asset
+  uploadId: 868494
